@@ -1,2 +1,2 @@
 module.exports =
-  "mongodb+srv://admin:7fx6wiDzAGOOm3ZH@icinema-4p2wg.mongodb.net/iCinema?retryWrites=true";
+  "mongodb+srv://new-user_32:YwM7yMr3T8hD3wT@cluster0.bdvqz.mongodb.net/iCinema?retryWrites=true&w=majority";
